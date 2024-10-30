@@ -1,0 +1,9 @@
+site_name: Kaiten 101
+nav:
+  - Авторизация: authorisation.md
+  - Пространства: spaces.md
+  - Очереди: queues.md
+  - Карточки: cards.md
+  - Уведомления: notifications.md
+  - Бот в Telegram: bot.md
+theme: readthedocs
